@@ -21,8 +21,7 @@ gcloud app deploy
 [Google Cloud Products](https://cloud.google.com/products/)
 
 ### Designing a Solution
-[GCP Official Icons and Solution Architectures](https://docs.google.com/presentation/d/1vjm5YdmOH5LrubFhHf1vlqW2O9Z2UqdWA8biN3e8K5U/)
-
+[GCP Official Icons and Solution Architectures](https://docs.google.com/presentation/d/1vjm5YdmOH5LrubFhHf1vlqW2O9Z2UqdWA8biN3e8K5U/)  
 [13 sample architectures to kickstart your Google Cloud journey](https://cloud.google.com/blog/products/application-development/13-popular-application-architectures-for-google-cloud)
 
 ### Summary
